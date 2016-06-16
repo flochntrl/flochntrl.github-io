@@ -1,7 +1,7 @@
 # Site
 title:              Florent Chaintreuil
-bio:                'Blog de Florent Chaintreuil'
-description:        "Blog de Florent Chaintreuil"
+bio:                'Développeur Web, le jour et parfois la nuit'
+description:        "Développeur Web. Codeur Back avec PHP et Symfony2. Je m'intéresse aussi au Front (SASS, React, ...)"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -31,9 +31,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics: UA-35933021-3
   #verify:
   #ad-client:
   #ad-slot:
